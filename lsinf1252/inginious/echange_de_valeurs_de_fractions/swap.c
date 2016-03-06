@@ -22,7 +22,7 @@ void swap(struct fract_t *ptra, struct fract_t *ptrb){
   ptrb -> denum = temp.denum;
 }
 
-//test de la fonction avec deux fractions a = 6/4 et b=9/3
+//test de la fonction avec deux fractions a = 6/4 et b=9/3 
 void main (){
   struct fract_t a = {6,4};
   struct fract_t b = {9,3};
