@@ -1,5 +1,6 @@
 /* Implementation du programme test de linux
  * Permet de gerer uniquement les tests arithmetiques
+ * Autheur : Singh Aman 
  */
 
 
