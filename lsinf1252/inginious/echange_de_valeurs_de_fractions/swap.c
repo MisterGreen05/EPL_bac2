@@ -1,5 +1,6 @@
 /* Implementation de la fonction swap qui permet d intervertir le resultat de
  * deux fractions
+ * Autheur : Singh Aman 
  */
 #include<stdio.h>
 
