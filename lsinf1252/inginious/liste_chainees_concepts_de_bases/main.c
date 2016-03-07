@@ -1,4 +1,5 @@
 /* Implementation des fonctions length, count, push, pop et free_list
+ * Autheur : Singh Aman 
  */
 
 #include<stdio.h>
