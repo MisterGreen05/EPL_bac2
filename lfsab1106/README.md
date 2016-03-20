@@ -5,3 +5,4 @@ Dossier qui contient des fichiers (des notes personnelles au format tex, les dev
 *****************************************************************************************************************************
 
 Seance02 et seance04 incorrect à corriger
+Pas de seance05 (APP) et seance06 QCM en ligne
