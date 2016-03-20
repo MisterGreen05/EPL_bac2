@@ -1,5 +1,5 @@
 # EPL_bac2
 
 ******************************************************************************
-*Contient toutes sortes de fichiers par rapport au bac 2 MAJ elec et MIN info*
+*Contient toutes sortes de fichiers par rapport au bac 2 MIN info            *
 ******************************************************************************
